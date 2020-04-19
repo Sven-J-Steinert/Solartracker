@@ -1,7 +1,7 @@
-# mini Solar tracker
+# Solar tracker
 
-Meet "Ray" - this solar tracker uses 4 LDR's to identify the direction to face the light source nominal.<br/>
-On its 2 degrees of freedom it uses 2 Servos for rotation and tilting with limited angles of 180°
+Meet "Ray" - he uses 4 LDR's to identify the direction to face the light source nominal.<br/>
+On its 2 degrees of freedom it uses 2 Servos for rotation and tilting with limited angles of 180°.
 
 [![alt text](https://abload.de/img/dsc_0023_upgjjtd.jpg)](https://www.youtube.com/watch?v=aiPPVG4HHPI)
 click the image for video
