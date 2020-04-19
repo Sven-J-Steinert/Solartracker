@@ -15,6 +15,7 @@ click the image for video
 |2|	Servo|	Tower Pro SG90 9g|
 |4|	Light Dependent Resistor|	GL5528|
 |4|	Resistor|	1kΩ|
+|1|	PCB|	7x3cm|
 |3|	3D Printed Parts|	.stl's in /CAD|
 |1|	Wooden Base|	12x12cm|
 
