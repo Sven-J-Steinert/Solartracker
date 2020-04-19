@@ -1,6 +1,6 @@
 # Solartracker
 2-Axis light tracking on Arduino Nano
-[![alt text](https://img.youtube.com/vi/aiPPVG4HHPI/0.jpg)](https://www.youtube.com/watch?v=aiPPVG4HHPI)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/aiPPVG4HHPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Partlist
  
