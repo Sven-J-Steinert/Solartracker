@@ -26,4 +26,7 @@ click for video
 # Datasheets
 
 # Credits
-
+Based on
+https://www.instructables.com/id/DIY-Miniature-Solar-Tracker/
+https://www.thingiverse.com/thing:708819
+https://www.thingiverse.com/thing:2038433
