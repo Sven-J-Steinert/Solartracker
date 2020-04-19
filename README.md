@@ -26,7 +26,7 @@ click the image for video
 # Datasheets
 
 # Credits
-Based on
-https://www.instructables.com/id/DIY-Miniature-Solar-Tracker/ <br/>
-https://www.thingiverse.com/thing:708819 <br/>
-https://www.thingiverse.com/thing:2038433
+Based on <br/>
+basic logic https://www.instructables.com/id/DIY-Miniature-Solar-Tracker/ <br/>
+basic pan tilt https://www.thingiverse.com/thing:708819 <br/>
+vertical middle part https://www.thingiverse.com/thing:2038433
